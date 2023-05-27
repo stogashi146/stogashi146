@@ -7,6 +7,9 @@ Hi, I'm Web engineer. 🤝
 ## 👏 Developed app
 
 ## 📈 Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stogashi146)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stogashi146&show_icons=true&theme=transparent)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=stogashi146">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stogashi146&layout=compact" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=stogashi146">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=stogashi146&show_icons=true&theme=transparent" />
+</a>
