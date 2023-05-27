@@ -1,18 +1,12 @@
-### Hi there 👋
+## 😀 About me
+Hi, I'm Web engineer. 🤝
 
-<!--
-**stogashi146/stogashi146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💪 My skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,aws,ruby,rails,react,jquery,php,laravel,cs,unity,swift,redis,docker,firebase,git,github&perline=10)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## 👏 Developed app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stogashi146)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stogashi146)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stogashi146&show_icons=true&theme=transparent)
