@@ -21,3 +21,9 @@ Hi, I'm Web engineer. 🤝
 <a href="https://github-readme-stats.vercel.app/api?username=stogashi146">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=stogashi146&show_icons=true&theme=transparent" />
 </a>
+
+## 📜 License
+- OracleMaster Silver 11g
+- Linux技術者認定試験 LinuC レベル3
+- HTML5プロフェッショナル認定資格 レベル1
+- Ruby技術者認定試験Silver Version3
