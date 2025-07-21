@@ -23,7 +23,9 @@ Hi, I'm Web engineer. 🤝
 </a>
 
 ## 📜 License
+- シスコ認定試験 CCNP
 - OracleMaster Silver 11g
 - Linux技術者認定試験 LinuC レベル3
 - HTML5プロフェッショナル認定資格 レベル1
 - Ruby技術者認定試験Silver Version3
+- AWS SAA-C03（Certified Solutions Architect - Associate）
